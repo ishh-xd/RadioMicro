@@ -4,7 +4,7 @@ const { convertTime } = require('../../utils/convert.js');
 module.exports = {
   name: 'radio',
   category: 'Music',
-  aliases: ['start'],
+  aliases: ['start', 'play'],
   description: 'Plays audio from Radio Stations.',
   args: false,
   usage: '<YouTube URL | Video Name | Spotify URL>',
