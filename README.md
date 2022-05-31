@@ -14,5 +14,6 @@ Node above v16.6.0 and below 17
 ```
 
 **Features**
-• 24/7 Play Mode
-• Lofi & Piano System
+• 24/7 Play Mode<br>
+• Lofi & Piano System<br>
+• 11+ Radio Stations<br>
