@@ -3,8 +3,8 @@ __A discord radio bot to play radio on discord. Installed on discord.js version 
 
 **Start**
 ```md
-npm start
-npx node src/index.js
+node src/index.js
+node .
 ```
 
 **Requirements**
