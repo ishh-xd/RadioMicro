@@ -30,7 +30,7 @@
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "mongoose": "^6.0.12",
-    "node": "^16.6.0",
+    "node": "^18.0.0",
     "node-superfetch": "^0.2.3",
     "spotify-data-info": "^0.0.2",
     "systeminformation": "^5.11.9",
