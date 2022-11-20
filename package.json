@@ -23,7 +23,7 @@
     "chalk": "^4.1.2",
     "delay": "^5.0.0",
     "discord.js": "^13.6.0",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.0.0",
     "fs": "^0.0.1-security",
     "kazagumo": "^1.0.14",
     "lodash": "^4.17.21",
