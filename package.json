@@ -32,7 +32,7 @@
     "mongoose": "^6.0.12",
     "node": "^16.6.0",
     "node-superfetch": "^0.2.3",
-    "spotify-data-info": "^0.0.2",
+    "spotify-data-info": "^0.0.3",
     "systeminformation": "^5.11.9",
     "util": "^0.12.4"
   },
